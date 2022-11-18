@@ -2,10 +2,15 @@
 
 Hello and welcome!
 
-We're excited to announce the Qiskit Fall Fest at RV PU.
 Quantum computing is an overlooked career path as it contains a lot of initial roadblocks of high-level math, incomprehensible metaphors and excessive jargon. But at Qiskit Fall Fest '22, we aim to demystify hand-wavy metaphors used in pop science to describe quantum computing, and instead give you a complete science-based overview on the fascinating field of the future.
 Get a chance to win amazing IBM swag packs as a part of our final quiz! Certificates will also be issued to all participants.
+It was held on Sunday, 6th November 2022. 215 out of 251 registrants attended!
 
-More information to be updated soon. Stay tuned!
+Winners: 🥳
+Mantradi Shashwati Rao (1H)
+Aathreya Nandana (1J)
+Vishak Kashyap (2B)
+Partha Suresh (2H)
+Pushan T (2H)
+Srikar Rao (2I)
 
-For queries, contact: shraddhaaangiras0911@gmail.com
